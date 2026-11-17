@@ -1,0 +1,16 @@
+Division,Product Name,Factory,Sales,Cost,Gross_Profit,Units,Orders,Gross_Margin_%,Profit_per_Unit,Price_per_Unit,Cost_per_Unit,Revenue_Contribution_%,Profit_Contribution_%,Margin_Volatility,Segment,Margin_Risk_Flag,Below_Threshold
+Chocolate,Wonka Bar - Scrumdiddlyumptious,Lot's O' Nuts,27874.8,8517.3,19357.5,7743,1704,69.444,2.5,3.6,1.1,19.66,20.716,0.0,High sales / High margin (Star),OK,False
+Chocolate,Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,28485.0,9874.8,18610.2,7596,1677,65.333,2.45,3.75,1.3,20.09,19.916,0.0,High sales / Low margin (Watch),Pricing review,True
+Chocolate,Wonka Bar - Milk Chocolate,Wicked Choccy's,26867.75,9424.38,17443.37,8267,1768,64.923,2.11,3.25,1.14,18.95,18.667,0.0,High sales / Low margin (Watch),Pricing review,True
+Chocolate,Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,23574.95,6755.0,16819.95,6755,1529,71.347,2.49,3.49,1.0,16.627,18.0,0.0,High sales / High margin (Star),OK,False
+Chocolate,Wonka Bar - Fudge Mallows,Lot's O' Nuts,24890.4,8296.8,16593.6,6914,1527,66.667,2.4,3.6,1.2,17.555,17.758,0.0,High sales / High margin (Star),OK,False
+Other,Lickable Wallpaper,Secret Factory,7860.0,3930.0,3930.0,393,92,50.0,10.0,20.0,10.0,5.544,4.206,0.0,High sales / Low margin (Watch),Pricing review,True
+Other,Wonka Gum,Secret Factory,597.5,286.8,310.7,478,118,52.0,0.65,1.25,0.6,0.421,0.333,0.0,High sales / Low margin (Watch),Low-volume / portfolio review,True
+Sugar,Everlasting Gobstopper,Secret Factory,130.0,26.0,104.0,13,3,80.0,8.0,10.0,2.0,0.092,0.111,,Low sales / High margin (Niche),OK,False
+Other,Kazookles,The Other Factory,1205.75,1113.0,92.75,371,94,7.692,0.25,3.25,3.0,0.85,0.099,0.0,High sales / Low margin (Watch),Discontinuation review,True
+Sugar,Hair Toffee,The Other Factory,76.5,17.0,59.5,17,4,77.778,3.5,4.5,1.0,0.054,0.064,,Low sales / High margin (Niche),OK,False
+Sugar,Fizzy Lifting Drinks,Sugar Shack,78.75,31.5,47.25,21,6,60.0,2.25,3.75,1.5,0.056,0.051,,Low sales / Low margin (Review),Low-volume / portfolio review,True
+Sugar,Laffy Taffy,Sugar Shack,53.73,20.25,33.48,27,10,62.312,1.24,1.99,0.75,0.038,0.036,0.0,Low sales / Low margin (Review),Low-volume / portfolio review,True
+Sugar,SweeTARTS,Sugar Shack,61.5,32.8,28.7,41,10,46.667,0.7,1.5,0.8,0.043,0.031,0.0,Low sales / Low margin (Review),Low-volume / portfolio review,True
+Sugar,Nerds,Sugar Shack,15.0,8.0,7.0,10,4,46.667,0.7,1.5,0.8,0.011,0.007,,Low sales / Low margin (Review),Low-volume / portfolio review,True
+Sugar,Fun Dip,Sugar Shack,12.0,7.2,4.8,8,3,40.0,0.6,1.5,0.9,0.008,0.005,,Low sales / Low margin (Review),Low-volume / portfolio review,True

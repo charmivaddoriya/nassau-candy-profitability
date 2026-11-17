@@ -1,0 +1,9 @@
+Step,Value
+Raw rows,10194
+Unparseable order dates,0
+Duplicate Row IDs removed,0
+Zero/negative-sales or undated rows removed,0
+Missing/zero unit values imputed,0
+Rows where Gross Profit != Sales - Cost (recomputed),0
+Invalid cost/profit rows removed,0
+Clean rows,10194

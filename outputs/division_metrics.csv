@@ -1,0 +1,4 @@
+Division,Sales,Cost,Gross_Profit,Units,Products,Gross_Margin_%,Revenue_Share_%,Profit_Share_%,Profit_minus_Revenue_Share_pp,Profit_per_Unit,Avg_Order_Line_Margin_%
+Chocolate,131692.9,42868.28,88824.62,37275,5,67.448,92.883,95.058,2.175,2.383,67.458
+Other,9663.25,5329.8,4333.45,1242,3,44.845,6.815,4.638,-2.178,3.489,37.672
+Sugar,427.48,142.75,284.73,137,7,66.607,0.302,0.305,0.003,2.078,57.689
